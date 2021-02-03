@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Atul Kumar",
+    "occupation": "Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Atul , I am curretly persuing my b.tech from Dayananda Sagar Academy Of technology and Management, bangalore. I have great interest in coding and learn new languages. Apart from this i love to watch anime.",
+    "contactmessage": "Get in touch with",
+    "email": "atuljaiss12345@gmail.com",
+    "phone": "+91 9065273501",
+    "address": {
+      "street": "Boring Road",
+      "city": "Patna",
+      "state": "Bihar",
+      "zip": "800001" 
+    },
+    "website": "",
+    "resumedownload": "http://papareact.com",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/darshanraaz.raaz/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/atul-kumar-a585491bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/atul_jaiss/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/atuljaiss",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dayananda Sagar Academy of technology and Management",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2nd year",
+        "description": " ** Scored 9.62 CGPA in first year **  "
+      }
+    ],
+    "work": [
+      {
+       
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "JAVA",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      },
+      {
+        "name":"C++",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Quiz on a the trending TV series known as F.R.I.E.N.D.S",
+        "category": "",
+        "image": "frnds.jfif",
+        "url": "https://repl.it/@atuljaiss/FRIENDS-QUIZ?embed=1&output=0#index.js"
+      }
+     
+    ]
+  }
+   
+}
